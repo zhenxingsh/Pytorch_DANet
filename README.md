@@ -1,4 +1,12 @@
 参考自：https://github.com/junfu1115/DANet
+#environment
+CUDA:8.0
+cudnn:7.1.3
+python:3.5
+pytorch-encoding:0.5.2  torch-encoding可进行下载  
+pytorch:1.0.0    pytorch/pytorch  (master 分支)
+gcc:5.4.0
+ninja:1.8.2      https://www.claudiokuenzler.com/blog/756/install-newer-ninja-build-tools-ubuntu-14.04-trusty#.WxYrvFMvzJwInstall newer ninja-build (1.8.2) on Ubuntu 14.04 Trusty ::https://www.claudiokuenzler.com/blog/756/install-newer-ninja-build-tools-ubuntu-14.04-trusty#.WxYrvFMvzJw
 
 # [Dual Attention Network for Scene Segmentation](https://arxiv.org/pdf/1809.02983.pdf)
 
